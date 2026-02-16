@@ -27,6 +27,62 @@ Design a professional presentation using Gamma
 
 This project simulates a real-world data analyst task and showcases both technical and business skills.
 
+🔷 Project Workflow
+
+<img width="1536" height="1024" alt="Data analysis project workflow overview" src="https://github.com/user-attachments/assets/2e3f28d4-2e63-4245-9059-f940b30f8558" />
+
+
+✔ Business Problem Statement
+Defined the objective to analyze customer shopping patterns and identify key performance indicators.
+
+✔ Data Modelling & EDA in Python.
+
+Imported dataset into Python
+
+Performed data cleaning and preprocessing
+
+Conducted exploratory data analysis (EDA)
+
+Generated insights from patterns and trends
+
+✔ Data Analysis in SQL.
+
+Loaded processed data into SQL database
+
+Wrote analytical queries
+
+Extracted KPIs and summarized metrics
+
+✔ Interactive Dashboard using Power BI.
+
+Connected SQL database to Power BI
+
+Designed interactive dashboards
+
+Created visual insights for stakeholders
+
+✔ Project Report.
+
+Documented findings
+
+Summarized business insights
+
+Provided actionable recommendations
+
+✔ Presentation using Gamma AI.
+
+Prepared professional presentation
+
+Communicated results effectively
+
+✔ GitHub Repository.
+
+Uploaded project files
+
+Maintained version control
+
+Ensured reproducibility of the project
+
 📂 Dataset
 
 Type: Structured CSV dataset
@@ -137,9 +193,6 @@ Revenue by region
 
 Customer segmentation
 
-5️⃣ Power BI Dashboard
-<img width="1598" height="885" alt="Screenshot 2026-02-15 183224" src="https://github.com/user-attachments/assets/8efee213-06eb-42eb-95de-f01b28851a68" />
-
 Built an interactive dashboard including:
 
 KPI Cards (Total Revenue, Orders, Average Order Value)
@@ -177,6 +230,9 @@ Portfolio showcase
 Business presentation
 
 📊 Dashboard Highlights
+5️⃣ Power BI Dashboard
+
+<img width="1598" height="885" alt="Screenshot 2026-02-15 183224" src="https://github.com/user-attachments/assets/8efee213-06eb-42eb-95de-f01b28851a68" />
 
 The dashboard provides:
 
@@ -247,3 +303,5 @@ It reflects a real industry workflow from raw data to business decisions.
 Ritik Singh
 Aspiring Data Analyst
 Python | SQL | Power BI | Business Analytics
+💼 LinkedIn:
+  Thank You!
